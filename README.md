@@ -7,7 +7,8 @@
 - 👒 Watching anime is a hobby.
 - 💀 Loves watching true crime documentaries.
 - 📫 Reach me at ayush.mohanty2002@gmail.com
-  
+
+(˶◕‿◕˶) Do drop a follow
 <!--
 **AYUSHMOHANTY10/AYUSHMOHANTY10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
