@@ -8,4 +8,4 @@
 - 💀 Loves watching true crime documentaries.
 - 📫 Reach me at ayush.mohanty2002@gmail.com
 
-## (˶◕‿◕˶) Do drop a follow
+## (◕‿◕) Do drop a follow
