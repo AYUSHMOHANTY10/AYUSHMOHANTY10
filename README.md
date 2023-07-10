@@ -1,5 +1,6 @@
 ### Hey there 👋 
 
+- 🌍 I am from Odisha, India
 - 🖥️ Currently a final-year computer science student.
 - 🖤 Loves Python Development.
 - ✨ Aspiring Data scientist in consulting.
