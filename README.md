@@ -1,5 +1,8 @@
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AYUSHMOHANTY10&count_private=true&show_icons=true&hide=issues,contribs)
 <img src="https://myreadme.vercel.app/api/embed/AYUSHMOHANTY10?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AYUSHMOHANTY10&theme=tokyonight" alt="mystreak"/>
+
+
 ### Hey there 👋 
 
 - 🌍 I am from Odisha, India
