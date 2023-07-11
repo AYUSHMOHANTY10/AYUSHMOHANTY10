@@ -1,4 +1,5 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AYUSHMOHANTY10&count_private=true&show_icons=true&hide=issues,contribs)
+![Snake animation](https://github.com/AYUSHMOHANTY10/github-readme/blob/output/github-contribution-snake.svg)
+// ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AYUSHMOHANTY10&count_private=true&show_icons=true&hide=issues,contribs)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AYUSHMOHANTY10&theme=tokyonight" alt="mystreak"/>
 <img src="https://myreadme.vercel.app/api/embed/AYUSHMOHANTY10?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
