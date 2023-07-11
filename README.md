@@ -1,4 +1,4 @@
-<img src="https://myreadme.vercel.app/api/embed/https://github.com/AYUSHMOHANTY10?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://myreadme.vercel.app/api/embed/AYUSHMOHANTY10?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 ### Hey there 👋 
 
