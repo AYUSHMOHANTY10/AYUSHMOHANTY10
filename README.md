@@ -1,5 +1,5 @@
 <img src="https://myreadme.vercel.app/api/embed/AYUSHMOHANTY10?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AYUSHMOHANTY10&theme=tokyonight" alt="mystreak"/>
 ### Hey there 👋 
 
 - 🌍 I am from Odisha, India
