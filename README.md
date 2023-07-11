@@ -1,6 +1,5 @@
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=AYUSHMOHANTY10&count_private=true&show_icons=true&hide=issues,contribs)-->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AYUSHMOHANTY10&theme=tokyonight" alt="mystreak"/>
-<img src="https://myreadme.vercel.app/api/embed/AYUSHMOHANTY10?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 
 ### Hey there 👋 
@@ -13,5 +12,8 @@
 - 👒 Watching anime is a hobby.
 - 💀 Loves watching true crime documentaries.
 - 📫 Reach me at ayush.mohanty2002@gmail.com
+
+
+<img src="https://myreadme.vercel.app/api/embed/AYUSHMOHANTY10?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 ## (◕‿◕) Do drop a follow
